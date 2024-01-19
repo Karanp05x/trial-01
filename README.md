@@ -1,2 +1,2 @@
 # trial-01
-This is a Trial Repository 
+This is a Trial Repository. 
